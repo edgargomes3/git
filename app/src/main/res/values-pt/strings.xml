@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bem-Vindo à Aplicação!</string>
+    <string name="login">Verificar</string>
+    <string name="returnlabel">Voltar</string>
+</resources>

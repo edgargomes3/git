@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">git</string>
+    <string name="welcome">Welcome to the Application!</string>
+    <string name="login">Verify</string>
+    <string name="returnlabel">Return</string>
+</resources>
